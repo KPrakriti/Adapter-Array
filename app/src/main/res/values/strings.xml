@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ArrayAdapter</string>
+    
+    <string-array name="android_versions">
+        <item>CupCake</item>
+        <item>Wraps</item>
+        <item>Burger</item>
+        <item>Noodles</item>
+        <item>Nutties</item>
+        <item>Tea</item>
+        <item>Coffee</item>
+        <item>Soup</item>
+        <item>Breads</item>
+        <item>Momos</item>
+        <item>BreadSticks</item>
+        <item>ChocoLava</item>
+        <item>Pav Bhaji</item>
+        <item>Golgappe</item>
+        <item>Pizza</item>
+        <item>Chilly</item>
+        <item>Mojito</item>
+        <item>Oreo Shake</item>
+        <item>KitKat</item>
+
+    </string-array>
+</resources>
